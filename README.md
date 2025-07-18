@@ -1,5 +1,5 @@
 # QUIZ-APPLICATION
-ntern Name: Prabhat Khandelwal
+Intern Name: Prabhat Khandelwal
 
 Company Name: CODTECH IT SOLUTIONS PVT.LTD
 
